@@ -2,7 +2,7 @@ repo_name: rlfagan/react-native-navigation
 report_id: 1688dafe15fa085718fa9efe622075af
 version: 0.1
 repo_type: Public
-timestamp: '2024-06-20T23:08:46+00:00'
+timestamp: '2024-06-20T23:15:37+00:00'
 requested_by: danilobuerger
 provider: github
 branch: master
@@ -83,8 +83,6 @@ tools:
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/playground/ios/Podfile
   detection_source: playground/ios/Podfile
-  last_updated_by: Guy Carmeli
-  last_updated_on: 2019-11-26 10:16:49.000000000 Z
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
   website_url: http://www.typescriptlang.org
@@ -108,8 +106,6 @@ tools:
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: talkol
-  last_updated_on: 2016-03-11 13:45:08.000000000 Z
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
     to build, test, and debug apps for Android.
@@ -122,8 +118,6 @@ tools:
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/playground/android/app/build.gradle
   detection_source: playground/android/app/build.gradle
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: React
   description: A JavaScript library for building user interfaces
   website_url: https://reactjs.org/
@@ -136,8 +130,6 @@ tools:
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: React Native
   description: A framework for building native apps with React
   website_url: http://facebook.github.io/
@@ -150,8 +142,6 @@ tools:
   image_url: https://img.stackshare.io/service/2699/KoK6gHzp.jpg
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: Redux
   description: Predictable state container for JavaScript apps
   website_url: https://redux.js.org/
@@ -162,8 +152,6 @@ tools:
   image_url: https://img.stackshare.io/service/4074/13142323.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Guy Carmeli
-  last_updated_on: 2017-12-12 09:34:31.000000000 Z
 - name: Babel
   description: Use next generation JavaScript, today.
   website_url: http://babeljs.io/
@@ -176,8 +164,6 @@ tools:
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: babel.config.js
-  last_updated_by: Jin Shin
-  last_updated_on: 2020-06-29 07:44:01.000000000 Z
 - name: Detox
   description: Gray box end-to-end testing and automation library for mobile apps
   website_url: https://github.com/wix/detox
@@ -190,8 +176,6 @@ tools:
   image_url: https://img.stackshare.io/service/8187/MfRcYRSi_400x400.jpg
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Sergei Butko
-  last_updated_on: 2021-10-24 18:12:32.000000000 Z
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
   website_url: http://eslint.org/
@@ -203,8 +187,6 @@ tools:
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: talkol
-  last_updated_on: 2016-03-11 13:45:08.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -225,8 +207,6 @@ tools:
   image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/.github/workflows/documentation.yml
   detection_source: ".github/workflows/documentation.yml"
-  last_updated_by: Yogev Ben David
-  last_updated_on: 2020-09-08 10:59:29.000000000 Z
 - name: Gradle
   description: A powerful build system for the JVM
   website_url: https://www.gradle.org/
@@ -238,8 +218,6 @@ tools:
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/lib/android/app/build.gradle
   detection_source: lib/android/app/build.gradle
-  last_updated_by: Guy Carmeli
-  last_updated_on: 2021-01-11 10:16:56.000000000 Z
 - name: Jasmine
   description: DOM-less simple JavaScript testing framework
   website_url: http://jasmine.github.io/
@@ -250,8 +228,6 @@ tools:
   image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Jin Shin
-  last_updated_on: 2020-06-29 07:44:01.000000000 Z
 - name: Jest
   description: Painless JavaScript Unit Testing
   website_url: http://facebook.github.io/jest/
@@ -264,8 +240,6 @@ tools:
   image_url: https://img.stackshare.io/service/830/jest.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: talkol
-  last_updated_on: 2016-03-11 13:45:08.000000000 Z
 - name: Mockito
   description: Tasty mocking framework for unit tests in Java
   website_url: https://site.mockito.org/
@@ -278,8 +252,6 @@ tools:
   image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/lib/android/app/build.gradle
   detection_source: lib/android/app/build.gradle
-  last_updated_by: MBrianLoc
-  last_updated_on: 2021-08-09 13:56:08.000000000 Z
 - name: NuGet
   description: The package manager for .NET
   website_url: https://www.nuget.org/
@@ -290,8 +262,6 @@ tools:
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: talkol
-  last_updated_on: 2016-03-11 13:45:08.000000000 Z
 - name: Prettier
   description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
@@ -304,8 +274,6 @@ tools:
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Danilo Bürger
-  last_updated_on: 2020-10-18 04:26:18.000000000 Z
 - name: Robolectric
   description: An open-source testing framework for Android
   website_url: http://robolectric.org/
@@ -317,8 +285,6 @@ tools:
   image_url: https://img.stackshare.io/service/2022/OavapKft_400x400.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/lib/android/app/build.gradle
   detection_source: lib/android/app/build.gradle
-  last_updated_by: Guy Carmeli
-  last_updated_on: 2021-01-11 10:16:56.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -329,8 +295,6 @@ tools:
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/website/package.json
   detection_source: website/package.json
-  last_updated_by: Guy Carmeli
-  last_updated_on: 2020-04-06 09:00:35.000000000 Z
 - name: ts-mockito
   description: Mocking library for TypeScript inspired by Mockito
   website_url: https://github.com/NagRock/ts-mockito
@@ -341,8 +305,6 @@ tools:
   image_url: https://img.stackshare.io/service/40072/default_4d417d0c9458f265f42d8659972fa0e7d701f5c1.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Henrik Raitasola
-  last_updated_on: 2018-10-29 13:12:14.000000000 Z
 - name: Android OS
   description: An open source mobile operating system by Google
   website_url: https://www.android.com
@@ -354,8 +316,6 @@ tools:
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/playground/android/app/build.gradle
   detection_source: playground/android/app/build.gradle
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: CocoaPods
   description: A dependency manager for Swift and Objective-C Cocoa projects
   website_url: https://cocoapods.org/
@@ -366,8 +326,6 @@ tools:
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/playground/ios/Podfile
   detection_source: playground/ios/Podfile
-  last_updated_by: Guy Carmeli
-  last_updated_on: 2019-11-26 10:16:49.000000000 Z
 - name: Lodash
   description: A JavaScript utility library
   website_url: https://lodash.com
@@ -378,8 +336,6 @@ tools:
   image_url: https://img.stackshare.io/service/2438/lodash.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Pontus Abrahamsson
-  last_updated_on: 2019-12-10 07:40:06.000000000 Z
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
     files. Shell scripts typically manage program execution.
@@ -398,8 +354,6 @@ tools:
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Jin Shin
-  last_updated_on: 2020-06-30 08:46:30.000000000 Z
 - name: lint-staged
   website_url: https://github.com/okonet/lint-staged
   open_source: false
@@ -407,8 +361,6 @@ tools:
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-03-11 10:48:39.000000000 Z
 - name: "@babel/core"
   description: Babel compiler core
   package_url: https://www.npmjs.com/@babel/core
@@ -421,8 +373,6 @@ tools:
   image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: "@babel/plugin-proposal-export-default-from"
   description: Compile export default to ES2015
   package_url: https://www.npmjs.com/@babel/plugin-proposal-export-default-from
@@ -435,8 +385,6 @@ tools:
   image_url: https://img.stackshare.io/package/16238/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: "@babel/plugin-proposal-export-namespace-from"
   description: Compile export namespace to ES2015
   package_url: https://www.npmjs.com/@babel/plugin-proposal-export-namespace-from
@@ -449,8 +397,6 @@ tools:
   image_url: https://img.stackshare.io/package/16312/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: "@babel/runtime"
   description: Babel's modular runtime helpers
   package_url: https://www.npmjs.com/@babel/runtime
@@ -463,8 +409,6 @@ tools:
   image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: "@babel/types"
   description: Babel Types is a Lodash-esque utility library for AST nodes
   package_url: https://www.npmjs.com/@babel/types
@@ -477,8 +421,6 @@ tools:
   image_url: https://img.stackshare.io/package/16786/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: "@react-native-community/eslint-config"
   description: ESLint config for React Native
   package_url: https://www.npmjs.com/@react-native-community/eslint-config
@@ -491,8 +433,6 @@ tools:
   image_url: https://img.stackshare.io/package/18225/default_88b0d2e50daafd07d82e1afc6ee8f1b97181a07d.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: "@types/jasmine"
   description: TypeScript definitions for Jasmine
   package_url: https://www.npmjs.com/@types/jasmine
@@ -505,8 +445,6 @@ tools:
   image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: "@types/jest"
   description: TypeScript definitions for Jest
   package_url: https://www.npmjs.com/@types/jest
@@ -519,8 +457,6 @@ tools:
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: "@types/lodash"
   description: TypeScript definitions for Lo-Dash
   package_url: https://www.npmjs.com/@types/lodash
@@ -533,8 +469,6 @@ tools:
   image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: "@types/react"
   description: TypeScript definitions for React
   package_url: https://www.npmjs.com/@types/react
@@ -547,8 +481,6 @@ tools:
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: "@types/react-native"
   description: TypeScript definitions for react-native
   package_url: https://www.npmjs.com/@types/react-native
@@ -561,8 +493,6 @@ tools:
   image_url: https://img.stackshare.io/package/16569/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: "@types/react-test-renderer"
   description: TypeScript definitions for react-test-renderer
   package_url: https://www.npmjs.com/@types/react-test-renderer
@@ -575,8 +505,6 @@ tools:
   image_url: https://img.stackshare.io/package/16593/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: "@typescript-eslint/eslint-plugin"
   description: TypeScript plugin for ESLint
   package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
@@ -589,8 +517,6 @@ tools:
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: "@typescript-eslint/parser"
   description: An ESLint custom parser which leverages TypeScript ESTree
   package_url: https://www.npmjs.com/@typescript-eslint/parser
@@ -603,8 +529,6 @@ tools:
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: babel-jest
   description: Jest plugin to use babel for transformation
   package_url: https://www.npmjs.com/babel-jest
@@ -617,8 +541,6 @@ tools:
   image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: clang-format
   description: Node wrapper around clang-format
   package_url: https://www.npmjs.com/clang-format
@@ -631,8 +553,6 @@ tools:
   image_url: https://img.stackshare.io/package/18178/default_d3a7b83d655e8a05ff3ca4b53648a053e1d909b2.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Danilo Bürger
-  last_updated_on: 2020-10-25 16:44:51.000000000 Z
 - name: eslint-config-prettier
   description: Turns off all rules that are unnecessary or might conflict with Prettier
   package_url: https://www.npmjs.com/eslint-config-prettier
@@ -645,8 +565,6 @@ tools:
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: eslint-plugin-prettier
   description: Runs prettier as an eslint rule
   package_url: https://www.npmjs.com/eslint-plugin-prettier
@@ -659,8 +577,6 @@ tools:
   image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: hoist-non-react-statics
   description: Copies non-react specific statics from a child component to a parent
     component
@@ -673,8 +589,6 @@ tools:
   image_url: https://img.stackshare.io/package/16478/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: husky
   description: Prevents bad commit or push
   package_url: https://www.npmjs.com/husky
@@ -687,8 +601,6 @@ tools:
   image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Jin Shin
-  last_updated_on: 2020-06-30 08:46:30.000000000 Z
 - name: identity-obj-proxy
   description: An identity object using ES6 proxies
   package_url: https://www.npmjs.com/identity-obj-proxy
@@ -701,8 +613,6 @@ tools:
   image_url: https://img.stackshare.io/package/16206/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Jin Shin
-  last_updated_on: 2020-06-29 07:44:01.000000000 Z
 - name: lint-staged
   description: Lint files staged by git
   package_url: https://www.npmjs.com/lint-staged
@@ -715,8 +625,6 @@ tools:
   image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-03-11 10:48:39.000000000 Z
 - name: metro-react-native-babel-preset
   description: Babel preset for React Native applications
   package_url: https://www.npmjs.com/metro-react-native-babel-preset
@@ -729,8 +637,6 @@ tools:
   image_url: https://img.stackshare.io/package/16699/default_5ea3918e441555ef1fd413f4100fe15fe23b366f.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: prop-types
   description: Runtime type checking for React props and similar objects
   package_url: https://www.npmjs.com/prop-types
@@ -742,8 +648,6 @@ tools:
   image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: react-dom
   description: React package for working with the DOM
   package_url: https://www.npmjs.com/react-dom
@@ -756,8 +660,6 @@ tools:
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/website/package.json
   detection_source: website/package.json
-  last_updated_by: Danilo Bürger
-  last_updated_on: 2020-08-31 11:46:36.000000000 Z
 - name: react-lifecycles-compat
   description: Backwards compatibility polyfill for React class components
   package_url: https://www.npmjs.com/react-lifecycles-compat
@@ -770,8 +672,6 @@ tools:
   image_url: https://img.stackshare.io/package/17997/default_3c26cdeaec6eea61500856203ee8d97e81b93f76.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: react-native
   description: A framework for building native apps using React
   package_url: https://www.npmjs.com/react-native
@@ -784,8 +684,6 @@ tools:
   image_url: https://img.stackshare.io/package/16064/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: react-redux
   description: Official React bindings for Redux
   package_url: https://www.npmjs.com/react-redux
@@ -797,8 +695,6 @@ tools:
   image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: react-test-renderer
   description: React package for snapshot testing
   package_url: https://www.npmjs.com/react-test-renderer
@@ -811,8 +707,6 @@ tools:
   image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: semver
   description: The semantic version parser used by npm
   package_url: https://www.npmjs.com/semver
@@ -824,8 +718,6 @@ tools:
   image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Daniel Zlotin
-  last_updated_on: 2017-01-12 18:04:17.000000000 Z
 - name: tslib
   description: Runtime library for TypeScript helper functions
   package_url: https://www.npmjs.com/tslib
@@ -838,8 +730,6 @@ tools:
   image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Yogev Ben David
-  last_updated_on: 2021-08-29 10:27:12.000000000 Z
 - name: typedoc
   description: Create api documentation for TypeScript projects
   package_url: https://www.npmjs.com/typedoc
@@ -851,8 +741,6 @@ tools:
   image_url: https://img.stackshare.io/package/15983/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/package.json
   detection_source: package.json
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: junit:junit
   description: JUnit is a unit testing framework for Java
   version: '4.12'
@@ -864,8 +752,6 @@ tools:
   image_url: https://img.stackshare.io/package/maven/image.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/lib/android/app/build.gradle
   detection_source: lib/android/app/build.gradle
-  last_updated_by: Guy Carmeli
-  last_updated_on: 2019-08-14 10:35:55.000000000 Z
   vulnerabilities:
   - name: TemporaryFolder on unix-like systems does not limit access to created files
     cve_id: CVE-2020-15250
@@ -884,8 +770,6 @@ tools:
   image_url: https://img.stackshare.io/package/maven/image.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/lib/android/app/build.gradle
   detection_source: lib/android/app/build.gradle
-  last_updated_by: Marc Rousavy
-  last_updated_on: 2021-03-09 12:15:00.000000000 Z
 - name: org.assertj:assertj-core
   description: Rich and fluent assertions for testing for Java
   version: 3.8.0
@@ -897,8 +781,6 @@ tools:
   image_url: https://img.stackshare.io/package/maven/image.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/lib/android/app/build.gradle
   detection_source: lib/android/app/build.gradle
-  last_updated_by: MBrianLoc
-  last_updated_on: 2021-08-09 13:56:08.000000000 Z
 - name: org.jetbrains.kotlin:kotlin-test
   description: Kotlin Test
   license: Apache-2.0
@@ -909,8 +791,6 @@ tools:
   image_url: https://img.stackshare.io/package/maven/image.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/lib/android/app/build.gradle
   detection_source: lib/android/app/build.gradle
-  last_updated_by: Ward Abbass
-  last_updated_on: 2021-11-08 13:22:57.000000000 Z
 - name: org.mockito:mockito-core
   description: Mockito mock objects library core API and implementation
   version: 3.4.0
@@ -922,8 +802,6 @@ tools:
   image_url: https://img.stackshare.io/package/maven/image.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/lib/android/app/build.gradle
   detection_source: lib/android/app/build.gradle
-  last_updated_by: MBrianLoc
-  last_updated_on: 2021-08-09 13:56:08.000000000 Z
 - name: org.mockito:mockito-inline
   description: Mockito preconfigured inline mock maker
   version: 3.4.0
@@ -935,8 +813,6 @@ tools:
   image_url: https://img.stackshare.io/package/maven/image.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/lib/android/app/build.gradle
   detection_source: lib/android/app/build.gradle
-  last_updated_by: MBrianLoc
-  last_updated_on: 2021-08-09 13:56:08.000000000 Z
 - name: org.robolectric:robolectric
   description: An alternative Android testing framework
   version: '4.4'
@@ -948,8 +824,6 @@ tools:
   image_url: https://img.stackshare.io/package/maven/image.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/lib/android/app/build.gradle
   detection_source: lib/android/app/build.gradle
-  last_updated_by: MBrianLoc
-  last_updated_on: 2021-08-09 13:56:08.000000000 Z
 - name: HMSegmentedControl
   description: A drop-in replacement for UISegmentedControl mimicking the style of
     the one in Google Currents and various other Google products
@@ -962,8 +836,6 @@ tools:
   image_url: https://img.stackshare.io/package/cocoapods/image.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/ReactNativeNavigation.podspec
   detection_source: ReactNativeNavigation.podspec
-  last_updated_by: Mohsin Ul Haq
-  last_updated_on: 2021-10-03 19:26:22.000000000 Z
 - name: OCMock
   description: Mock objects for Objective-C
   package_url: https://cocoapods.org/pods/OCMock
@@ -975,5 +847,3 @@ tools:
   image_url: https://img.stackshare.io/package/cocoapods/image.png
   detection_source_url: https://github.com/rlfagan/react-native-navigation/blob/master/playground/ios/Podfile
   detection_source: playground/ios/Podfile
-  last_updated_by: Yogev Ben David
-  last_updated_on: 2020-04-05 08:33:07.000000000 Z
