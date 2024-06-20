@@ -371,59 +371,59 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@babel/core](https://www.npmjs.com/@babel/core)|v7.15.8|11/08/21|Ward Abbass |MIT|N/A|
-|[@babel/plugin-proposal-export-default-from](https://www.npmjs.com/@babel/plugin-proposal-export-default-from)|v7.10.1|11/08/21|Ward Abbass |MIT|N/A|
-|[@babel/plugin-proposal-export-namespace-from](https://www.npmjs.com/@babel/plugin-proposal-export-namespace-from)|v7.10.1|11/08/21|Ward Abbass |MIT|N/A|
-|[@babel/runtime](https://www.npmjs.com/@babel/runtime)|v7.15.4|11/08/21|Ward Abbass |MIT|N/A|
-|[@babel/types](https://www.npmjs.com/@babel/types)|v7.15.6|11/08/21|Ward Abbass |MIT|N/A|
-|[@react-native-community/eslint-config](https://www.npmjs.com/@react-native-community/eslint-config)|v2.0.0|11/08/21|Ward Abbass |MIT|N/A|
-|[@types/jasmine](https://www.npmjs.com/@types/jasmine)|v3.5.10|11/08/21|Ward Abbass |MIT|N/A|
-|[@types/jest](https://www.npmjs.com/@types/jest)|v27.0.2|11/08/21|Ward Abbass |MIT|N/A|
-|[@types/lodash](https://www.npmjs.com/@types/lodash)|v4.14.149|11/08/21|Ward Abbass |MIT|N/A|
-|[@types/react](https://www.npmjs.com/@types/react)|v16.9.41|11/08/21|Ward Abbass |MIT|N/A|
-|[@types/react-native](https://www.npmjs.com/@types/react-native)|v0.63.1|11/08/21|Ward Abbass |MIT|N/A|
-|[@types/react-test-renderer](https://www.npmjs.com/@types/react-test-renderer)|v16.9.2|11/08/21|Ward Abbass |MIT|N/A|
-|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v3.3.0|11/08/21|Ward Abbass |MIT|N/A|
-|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v3.3.0|11/08/21|Ward Abbass |BSD-2-Clause|N/A|
-|[babel-jest](https://www.npmjs.com/babel-jest)|v27.2.5|11/08/21|Ward Abbass |MIT|N/A|
-|[clang-format](https://www.npmjs.com/clang-format)|v1.4.0|10/25/20|Danilo Bürger |Apache-2.0|N/A|
-|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v6.11.0|11/08/21|Ward Abbass |MIT|N/A|
-|[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.1.4|11/08/21|Ward Abbass |MIT|N/A|
-|[hoist-non-react-statics](https://www.npmjs.com/hoist-non-react-statics)|N/A|11/08/21|Ward Abbass |BSD-3-Clause|N/A|
-|[husky](https://www.npmjs.com/husky)|v4.2.5|06/30/20|Jin Shin |MIT|N/A|
-|[identity-obj-proxy](https://www.npmjs.com/identity-obj-proxy)|v3.0.0|06/29/20|Jin Shin |MIT|N/A|
-|[lint-staged](https://www.npmjs.com/lint-staged)|v10.2.11|03/11/21|Ward Abbass |MIT|N/A|
-|[metro-react-native-babel-preset](https://www.npmjs.com/metro-react-native-babel-preset)|v0.66.2|11/08/21|Ward Abbass |MIT|N/A|
-|[prop-types](https://www.npmjs.com/prop-types)|N/A|11/08/21|Ward Abbass |MIT|N/A|
-|[react-dom](https://www.npmjs.com/react-dom)|v16.8.4|08/31/20|Danilo Bürger |MIT|N/A|
-|[react-lifecycles-compat](https://www.npmjs.com/react-lifecycles-compat)|v2.0.0|11/08/21|Ward Abbass |MIT|N/A|
-|[react-native](https://www.npmjs.com/react-native)|v0.66.2|11/08/21|Ward Abbass |MIT|N/A|
-|[react-redux](https://www.npmjs.com/react-redux)|N/A|11/08/21|Ward Abbass |MIT|N/A|
-|[react-test-renderer](https://www.npmjs.com/react-test-renderer)|v16.13.1|11/08/21|Ward Abbass |MIT|N/A|
-|[semver](https://www.npmjs.com/semver)|N/A|01/12/17|Daniel Zlotin |ISC|N/A|
-|[tslib](https://www.npmjs.com/tslib)|v1.9.3|08/29/21|Yogev Ben David |0BSD|N/A|
-|[typedoc](https://www.npmjs.com/typedoc)|N/A|11/08/21|Ward Abbass |Apache-2.0|N/A|
+|[@babel/core](https://www.npmjs.com/@babel/core)|v7.15.8|N/A|N/A |MIT|N/A|
+|[@babel/plugin-proposal-export-default-from](https://www.npmjs.com/@babel/plugin-proposal-export-default-from)|v7.10.1|N/A|N/A |MIT|N/A|
+|[@babel/plugin-proposal-export-namespace-from](https://www.npmjs.com/@babel/plugin-proposal-export-namespace-from)|v7.10.1|N/A|N/A |MIT|N/A|
+|[@babel/runtime](https://www.npmjs.com/@babel/runtime)|v7.15.4|N/A|N/A |MIT|N/A|
+|[@babel/types](https://www.npmjs.com/@babel/types)|v7.15.6|N/A|N/A |MIT|N/A|
+|[@react-native-community/eslint-config](https://www.npmjs.com/@react-native-community/eslint-config)|v2.0.0|N/A|N/A |MIT|N/A|
+|[@types/jasmine](https://www.npmjs.com/@types/jasmine)|v3.5.10|N/A|N/A |MIT|N/A|
+|[@types/jest](https://www.npmjs.com/@types/jest)|v27.0.2|N/A|N/A |MIT|N/A|
+|[@types/lodash](https://www.npmjs.com/@types/lodash)|v4.14.149|N/A|N/A |MIT|N/A|
+|[@types/react](https://www.npmjs.com/@types/react)|v16.9.41|N/A|N/A |MIT|N/A|
+|[@types/react-native](https://www.npmjs.com/@types/react-native)|v0.63.1|N/A|N/A |MIT|N/A|
+|[@types/react-test-renderer](https://www.npmjs.com/@types/react-test-renderer)|v16.9.2|N/A|N/A |MIT|N/A|
+|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v3.3.0|N/A|N/A |MIT|N/A|
+|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v3.3.0|N/A|N/A |BSD-2-Clause|N/A|
+|[babel-jest](https://www.npmjs.com/babel-jest)|v27.2.5|N/A|N/A |MIT|N/A|
+|[clang-format](https://www.npmjs.com/clang-format)|v1.4.0|N/A|N/A |Apache-2.0|N/A|
+|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v6.11.0|N/A|N/A |MIT|N/A|
+|[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.1.4|N/A|N/A |MIT|N/A|
+|[hoist-non-react-statics](https://www.npmjs.com/hoist-non-react-statics)|N/A|N/A|N/A |BSD-3-Clause|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.2.5|N/A|N/A |MIT|N/A|
+|[identity-obj-proxy](https://www.npmjs.com/identity-obj-proxy)|v3.0.0|N/A|N/A |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.2.11|N/A|N/A |MIT|N/A|
+|[metro-react-native-babel-preset](https://www.npmjs.com/metro-react-native-babel-preset)|v0.66.2|N/A|N/A |MIT|N/A|
+|[prop-types](https://www.npmjs.com/prop-types)|N/A|N/A|N/A |MIT|N/A|
+|[react-dom](https://www.npmjs.com/react-dom)|v16.8.4|N/A|N/A |MIT|N/A|
+|[react-lifecycles-compat](https://www.npmjs.com/react-lifecycles-compat)|v2.0.0|N/A|N/A |MIT|N/A|
+|[react-native](https://www.npmjs.com/react-native)|v0.66.2|N/A|N/A |MIT|N/A|
+|[react-redux](https://www.npmjs.com/react-redux)|N/A|N/A|N/A |MIT|N/A|
+|[react-test-renderer](https://www.npmjs.com/react-test-renderer)|v16.13.1|N/A|N/A |MIT|N/A|
+|[semver](https://www.npmjs.com/semver)|N/A|N/A|N/A |ISC|N/A|
+|[tslib](https://www.npmjs.com/tslib)|v1.9.3|N/A|N/A |0BSD|N/A|
+|[typedoc](https://www.npmjs.com/typedoc)|N/A|N/A|N/A |Apache-2.0|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png'/> Apache Maven (7)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[junit:junit](http://junit.org)|v4.12|08/14/19|Guy Carmeli |EPL-1.0|[CVE-2020-15250](https://github.com/advisories/GHSA-269g-pwp5-87pp) (Moderate)|
-|[com.squareup.assertj:assertj-android](http://github.com/square/assertj-android/)|v1.1.1|03/09/21|Marc Rousavy |Apache-2.0|N/A|
-|[org.assertj:assertj-core](http://assertj.org)|v3.8.0|08/09/21|MBrianLoc |Apache-2.0|N/A|
-|[org.jetbrains.kotlin:kotlin-test](https://kotlinlang.org/)|N/A|11/08/21|Ward Abbass |Apache-2.0|N/A|
-|[org.mockito:mockito-core](https://github.com/mockito/mockito)|v3.4.0|08/09/21|MBrianLoc |MIT|N/A|
-|[org.mockito:mockito-inline](http://mockito.org)|v3.4.0|08/09/21|MBrianLoc |MIT|N/A|
-|[org.robolectric:robolectric](http://robolectric.org/)|v4.4|08/09/21|MBrianLoc |MIT|N/A|
+|[junit:junit](http://junit.org)|v4.12|N/A|N/A |EPL-1.0|[CVE-2020-15250](https://github.com/advisories/GHSA-269g-pwp5-87pp) (Moderate)|
+|[com.squareup.assertj:assertj-android](http://github.com/square/assertj-android/)|v1.1.1|N/A|N/A |Apache-2.0|N/A|
+|[org.assertj:assertj-core](http://assertj.org)|v3.8.0|N/A|N/A |Apache-2.0|N/A|
+|[org.jetbrains.kotlin:kotlin-test](https://kotlinlang.org/)|N/A|N/A|N/A |Apache-2.0|N/A|
+|[org.mockito:mockito-core](https://github.com/mockito/mockito)|v3.4.0|N/A|N/A |MIT|N/A|
+|[org.mockito:mockito-inline](http://mockito.org)|v3.4.0|N/A|N/A |MIT|N/A|
+|[org.robolectric:robolectric](http://robolectric.org/)|v4.4|N/A|N/A |MIT|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png'/> CocoaPods (2)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[HMSegmentedControl](https://cocoapods.org/pods/HMSegmentedControl)|N/A|10/03/21|Mohsin Ul Haq ||N/A|
-|[OCMock](https://cocoapods.org/pods/OCMock)|N/A|04/05/20|Yogev Ben David |Apache-2.0|N/A|
+|[HMSegmentedControl](https://cocoapods.org/pods/HMSegmentedControl)|N/A|N/A|N/A ||N/A|
+|[OCMock](https://cocoapods.org/pods/OCMock)|N/A|N/A|N/A |Apache-2.0|N/A|
 
 <br/>
 <div align='center'>
